@@ -40,7 +40,7 @@ const Home = () => {
     <div>
       <div className="col-5 mt-3 p-3 mx-auto intro">
         <h1 className="hi">Hi 🖐️</h1>
-        <p className="welcome">Welcome to Wajhulconnect</p>
+        <p className="welcome">Welcome to VijendraConnect</p>
         <p>Love Animals ❣</p>
       </div>
       {post.length >= 0 &&

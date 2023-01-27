@@ -3,7 +3,7 @@ import React from "react";
 const Footer = () => {
   return (
     <div className="footer">
-      <p className="waj">&copy; Developed by Wajhul Huda... </p>
+      <p className="waj">&copy; Developed by vijendra sanodiya... </p>
     </div>
   );
 };

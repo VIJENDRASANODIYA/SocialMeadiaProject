@@ -16,7 +16,7 @@ const Navbar = () => {
       <div>
         <img src={logo} alt="logo" width="35px" height="35px" />
         <a className="link" href="/">
-          WajhulConnect
+         VijendraConnect
         </a>
       </div>
       <div className="form-check form-switch">
